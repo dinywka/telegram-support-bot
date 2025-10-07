@@ -1,21 +1,28 @@
-# Client Support Telegram Bot
+# Telegram Support Bot
 
-Интерактивный Telegram-бот для клиентской поддержки.  
-Подходит для малого бизнеса, интернет-магазинов, доставки и консультаций.
+A simple and responsive Telegram bot for customer support, built with **Python** and the `python-telegram-bot` framework.  
+It provides quick answers to FAQs, contact information, working hours, and supports interactive buttons.
 
-## Возможности
-- Главное меню с кнопками (часы работы, доставка, оплата, контакты)
-- Автоматические ответы на часто задаваемые вопросы
-- Запись сообщений пользователей в лог (`users_log.txt`)
-- Возможность расширения под реальных операторов
-- Удобный UX с кнопками и эмодзи
+---
 
-## Технологии
-- Python 3.10+
-- python-telegram-bot v20
-- python-dotenv (для хранения токена)
+## Features
+- Interactive menu with inline buttons  
+- Auto-replies to user messages  
+- Contact and delivery info  
+- Simple, clean, and extendable structure  
 
-##  Как запустить
-1. Клонируйте проект:
+---
+
+## Tech Stack
+- **Python 3.10+**
+- **python-telegram-bot v21**
+- **Logging** for debugging and monitoring
+
+---
+
+##️ Setup
+
+1. Clone the repository:
    ```bash
    git clone https://github.com/dinywka/telegram-support-bot
+   cd telegram-support-bot
