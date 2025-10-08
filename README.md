@@ -20,6 +20,21 @@ It provides quick answers to FAQs, contact information, working hours, and suppo
 
 ---
 
+---
+
+## Screenshots
+
+Here are a few screenshots showing how the bot works in Telegram:
+
+<div align="center">
+  <img src="screenshots/screenshot_menu.png" alt="Main menu" width="250"/>
+  <img src="screenshots/screenshot_hours.png" alt="Working hours" width="250"/>
+  <img src="screenshots/screenshot_reply.png" alt="Bot reply" width="250"/>
+</div>
+
+---
+
+
 ##️ Setup
 
 1. Clone the repository:
